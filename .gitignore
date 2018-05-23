@@ -19,3 +19,7 @@ Installer/Output
 
 # Installer pre-processor
 Installer/PreprocessedpGina0.iss
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/pgina/v15
